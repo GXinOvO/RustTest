@@ -1,0 +1,1 @@
+/home/bury/JacarandaMimosifolia/rust/LeetCode/two_sum1/target/debug/two_sum1: /home/bury/JacarandaMimosifolia/rust/LeetCode/two_sum1/src/lib.rs /home/bury/JacarandaMimosifolia/rust/LeetCode/two_sum1/src/main.rs
