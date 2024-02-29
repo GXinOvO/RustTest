@@ -1,0 +1,10 @@
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/libhttparse-7c8a2d6bbc52db7d.rmeta: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/iter.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/macros.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/mod.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/sse42.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/avx2.rs
+
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/httparse-7c8a2d6bbc52db7d.d: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/iter.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/macros.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/mod.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/sse42.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/avx2.rs
+
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/lib.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/iter.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/macros.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/mod.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/sse42.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/httparse-1.8.0/src/simd/avx2.rs:

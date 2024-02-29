@@ -1,0 +1,9 @@
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/libfutures_channel-eb717305ea37c50d.rmeta: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/lock.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/mpsc/mod.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/mpsc/queue.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/oneshot.rs
+
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/futures_channel-eb717305ea37c50d.d: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/lock.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/mpsc/mod.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/mpsc/queue.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/oneshot.rs
+
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/lib.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/lock.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/mpsc/mod.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/mpsc/queue.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-channel-0.3.30/src/oneshot.rs:

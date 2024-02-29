@@ -1,0 +1,10 @@
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/libanstyle-714e5efd5c30b3d5.rmeta: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/macros.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/color.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/effect.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/reset.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/style.rs
+
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/anstyle-714e5efd5c30b3d5.d: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/macros.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/color.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/effect.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/reset.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/style.rs
+
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/lib.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/macros.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/color.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/effect.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/reset.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-1.0.6/src/style.rs:

@@ -1,0 +1,10 @@
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/libfutures_task-5fc1932153e73866.rmeta: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/spawn.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/future_obj.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/noop_waker.rs
+
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/libfutures_task-5fc1932153e73866.rlib: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/spawn.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/future_obj.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/noop_waker.rs
+
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/futures_task-5fc1932153e73866.d: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/spawn.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/future_obj.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/noop_waker.rs
+
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/lib.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/spawn.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/future_obj.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-task-0.3.30/src/noop_waker.rs:

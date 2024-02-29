@@ -1,0 +1,9 @@
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/libanstyle_parse-f40b42c9f0bd65f2.rmeta: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/params.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/mod.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/definitions.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/table.rs
+
+/home/bury/RustTest/EveryOneProject/xdiff/target/debug/deps/anstyle_parse-f40b42c9f0bd65f2.d: /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/lib.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/params.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/mod.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/definitions.rs /home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/table.rs
+
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/lib.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/params.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/mod.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/definitions.rs:
+/home/bury/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/anstyle-parse-0.2.3/src/state/table.rs:
