@@ -1,0 +1,36 @@
+[submodule "LeetCode/can_permute_palindrome"]
+	path = LeetCode/can_permute_palindrome
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/check_permutation"]
+	path = LeetCode/check_permutation
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/set_zeroes"]
+	path = LeetCode/set_zeroes
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/number_of_weeks"]
+	path = LeetCode/number_of_weeks
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/max_profit"]
+	path = LeetCode/max_profit
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/max_profit2"]
+	path = LeetCode/max_profit2
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/majority_element"]
+	path = LeetCode/majority_element
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/kth_to_last"]
+	path = LeetCode/kth_to_last
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/is_unique"]
+	path = LeetCode/is_unique
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/is_fliped_string"]
+	path = LeetCode/is_fliped_string
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/duplicate_numbers_xor"]
+	path = LeetCode/duplicate_numbers_xor
+	url = git@github.com:GXinOvO/RustTest.git
+[submodule "LeetCode/compress_string"]
+	path = LeetCode/compress_string
+	url = git@github.com:GXinOvO/RustTest.git
