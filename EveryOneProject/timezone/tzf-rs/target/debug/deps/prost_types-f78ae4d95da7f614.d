@@ -1,0 +1,10 @@
+C:\Users\11734\RustroverProjects\RustTest\EveryOneProject\timezone\tzf-rs\target\debug\deps\libprost_types-f78ae4d95da7f614.rmeta: C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\lib.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\datetime.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\compiler.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\protobuf.rs
+
+C:\Users\11734\RustroverProjects\RustTest\EveryOneProject\timezone\tzf-rs\target\debug\deps\libprost_types-f78ae4d95da7f614.rlib: C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\lib.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\datetime.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\compiler.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\protobuf.rs
+
+C:\Users\11734\RustroverProjects\RustTest\EveryOneProject\timezone\tzf-rs\target\debug\deps\prost_types-f78ae4d95da7f614.d: C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\lib.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\datetime.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\compiler.rs C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\protobuf.rs
+
+C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\lib.rs:
+C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\datetime.rs:
+C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\compiler.rs:
+C:\Users\11734\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.12.3\src\protobuf.rs:
