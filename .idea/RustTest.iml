@@ -1,7 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/2048/game-2048-test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/2048/game-2048-tui/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/algorithms/algorithms-test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/algorithms/rust-algorithms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/algorithms/rust-algorithms/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/derive/derive-test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/derive/derive-with/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/derive/derive-with/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/timezone/Appendix/geometry-rs/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/timezone/Appendix/geometry-rs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/timezone/tzf-rs/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/timezone/tzf-rs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/timezone/tzf-rs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/xdiff/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EveryOneProject/xdiff/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/add_binary67/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/add_binary67/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/can_jump/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/contains_duplicate217/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/contains_duplicate217/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/convert_to_title168/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/convert_to_title168/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/delete_duplicates83/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/delete_duplicates83/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/generate118/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/generate118/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/hamming_weight191/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/hamming_weight191/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/isValid20/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/isValid20/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/is_happy202/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/is_happy202/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/is_isomorphic205/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/is_isomorphic205/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/is_palindrome9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/is_palindrome9/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/jump/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/length_of_last_word58/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/length_of_last_word58/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/longest_common_prefix14/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/majority_element169/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/majority_element169/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/merge88/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/merge88/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/merge_two_lists21/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/merge_two_lists21/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/my_sqrt69/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/my_sqrt69/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/plus_one66/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/plus_one66/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/product_except_self238/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/remove_duplicates26/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/remove_duplicates26/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/remove_element27/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/remove_element27/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/reverse_bits190/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/reverse_bits190/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/roman_to_int13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/roman_to_int13/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/search_insert35/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/search_insert35/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/single_number136/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/single_number136/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/str_str28/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/str_str28/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/title_to_number171/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/title_to_number171/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/two_sum1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/two_sum1/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/example/demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/enum_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/guessing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/hashmap_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/mine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/my-project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/option_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/study/15_error/error/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/can_complete_circuit134/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/candy135/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/2048/game-2048-test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/2048/game-2048-tui/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/algorithms/algorithms-test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/algorithms/rust-algorithms/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/derive/derive-test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/derive/derive-with/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/timezone/Appendix/geometry-rs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/timezone/tzf-rs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/xdiff/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/add_binary67/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/can_jump/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/contains_duplicate217/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/convert_to_title168/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/delete_duplicates83/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/generate118/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/hamming_weight191/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/isValid20/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/is_happy202/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/is_isomorphic205/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/is_palindrome9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/jump/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/length_of_last_word58/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/longest_common_prefix14/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/majority_element169/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/merge88/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/merge_two_lists21/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/my_sqrt69/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/plus_one66/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/product_except_self238/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/remove_duplicates26/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/remove_element27/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/reverse_bits190/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/roman_to_int13/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/search_insert35/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/single_number136/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/str_str28/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/title_to_number171/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/two_sum1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/enum_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/guessing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/hashmap_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/mine/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/my-project/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/option_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/study/15_error/error/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/can_complete_circuit134/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/candy135/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
