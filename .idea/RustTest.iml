@@ -83,6 +83,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/can_complete_circuit134/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/candy135/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/trap42/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/full_justify68/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/2048/game-2048-test/target" />
       <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/2048/game-2048-tui/target" />
       <excludeFolder url="file://$MODULE_DIR$/EveryOneProject/algorithms/algorithms-test/target" />
@@ -133,6 +134,7 @@
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/can_complete_circuit134/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/candy135/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/trap42/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/full_justify68/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
