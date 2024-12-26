@@ -27,6 +27,7 @@ pub fn full_justify(words: Vec<String>, max_width: i32) -> Vec<String> {
         if i == L {
             let last_line = tmp[..].join(&" ");
             let len = last_line.len();
+            println!("last_line: {:?}", last_line);
             queue.push(last_line + &" ".repeat(max_width - len));
             break;
         }
